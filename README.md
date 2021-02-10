@@ -9,3 +9,7 @@ The demo contains the following features:
   - Right/Left mouse button Click & Drag
   - Zoom with scroll wheel / Track pad
 - Responsive canvas
+
+### Link to access website online
+
+[Project on netlify](https://threejs-demo-site.netlify.app/ "Project on netlify")
